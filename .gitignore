@@ -1,0 +1,5 @@
+logs/*.txt
+alerts/*.json
+reports/*.md
+__pycache__/
+*.pyc
