@@ -30,7 +30,7 @@ siem-log-monitor/
 python parser/log_parser.py
 python detection/detection_rules.py
 python incident_report_generator.py
-
+```
 🛡️ SOC Relevance
 
 This project mirrors real SOC workflows, including log ingestion, event correlation, alert triage, and incident response documentation.
